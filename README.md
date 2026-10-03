@@ -1,11 +1,11 @@
 # PE-BMGN
 
-PyTorch implementation of **PE-BMGN**: A physics-enhanced bidirectional multi-level graph fusion network for interpretable bearing remaining useful life prediction.
+PyTorch implementation of **PE-GKAN**: Physics-enhanced order-wise graph Kolmogorov-Arnold network for bearing remaining useful life prediction.
 
 ## Project structure
 
 ```text
-PE-BMGN-master/
+PE-GKAN-master/
 ├── PE-BMGN/
 │   ├── configs.py                 # Dataset and model configuration dataclasses
 │   ├── kan_layers.py              # KANLinear and Chebyshev GraphKAN convolution
