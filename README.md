@@ -1,4 +1,4 @@
-# PE-BMGN
+# PE-GKAN
 
 PyTorch implementation of **PE-GKAN**: Physics-enhanced order-wise graph Kolmogorov-Arnold network for bearing remaining useful life prediction.
 
