@@ -6,7 +6,7 @@ PyTorch implementation of **PE-GKAN**: Physics-enhanced order-wise graph Kolmogo
 
 ```text
 PE-GKAN-master/
-├── PE-BMGN/
+├── PE-GKAN/
 │   ├── configs.py                 # Dataset and model configuration dataclasses
 │   ├── kan_layers.py              # KANLinear and Chebyshev GraphKAN convolution
 │   ├── wavelet.py                 # Learnable wavelet decomposition module
